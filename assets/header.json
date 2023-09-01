@@ -1,10 +1,11 @@
 {
   "name"  : "Ailton Diaz",
-  "email" : "ailtonkanon@outlook.com",
+  "email" : "josama1415@gmail.com",
   "titulo" :"Ingeniero de software",
   "objetivo" : "",
-  "cel"   : "(272)235 6274",
-  "ubicacion" : "Rio Blanco, Ver",
+  "foto" :"",
+  "cel"   : "(272)235 6333",
+  "ubicacion" : "Veracruz, Mexico",
   "social": {
     "face": "^2.8.5",
     "x": "^4.18.2"
