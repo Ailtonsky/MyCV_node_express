@@ -2,12 +2,12 @@
   "name"  : "Ailton Diaz",
   "email" : "josama1415@gmail.com",
   "titulo" :"Ingeniero de software",
-  "objetivo" : "",
+  "objetivo" : "Gestionar y programar",
   "foto" :"",
-  "cel"   : "(272)235 6333",
+  "cel"   : "(272)235 6274",
   "ubicacion" : "Veracruz, Mexico",
   "social": {
-    "face": "^2.8.5",
+    "face": "Ailton Diaz",
     "x": "^4.18.2"
   }
 }
