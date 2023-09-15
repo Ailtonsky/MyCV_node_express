@@ -11,6 +11,18 @@
                 "Desarrollar el backend de un sistema web de gestión de un gimnasio",
                 "Diseñar interfaz grafica con Figma"
             ]
+        },
+        {
+            "puesto" : "Frontend Developer",
+            "empresa" : "Universidad Veracruzana",
+            "fecha_ini" : "08/2021 ",
+            "fecha_fin" : "presente",
+            "ciudad" : "Ixtaczoquitlan" ,
+            "pais" : "Mexico",
+            "logros" : [
+                "Desarrollar el frontend de un sistema web de gestión de un gimnasio",
+                "Diseñar interfaz grafica con Figma"
+            ]
         }
     ]
 }
